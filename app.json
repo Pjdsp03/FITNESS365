@@ -1,28 +1,14 @@
 {
   "expo": {
-    "owner": "paulo_p_j",
     "name": "FITNESS365",
     "slug": "fitness365",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000000"
+    "owner": "paulo_p_j",
+    "extra": {
+      "eas": {
+        "projectId": "f4b01b8a-70ff-464f-a8cc-947295a2aac2"
+      }
     },
-    "assetBundlePatterns": [
-      "*/"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.fitness365.app"
-    },
-    "android": {
-      "package": "com.fitness365.app"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+
+    ...
   }
 }
