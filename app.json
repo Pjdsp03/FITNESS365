@@ -1,10 +1,10 @@
 {
   "expo": {
+    "owner": "paulo_p_j",
     "name": "FITNESS365",
-    "slug": "fitness365",
-    "owner": "Paulo_P.J",
-    "version": "1.0.0",
-    "orientation": "portrait",
+    "slug": "fitness365"
+  }
+}
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
