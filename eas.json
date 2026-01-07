@@ -7,13 +7,10 @@
       "android": {
         "buildType": "apk"
       }
-    }
-  }
-}
     },
-    "preview": {
+    "production": {
       "android": {
-        "buildType": "apk"
+        "buildType": "app-bundle"
       }
     }
   }
