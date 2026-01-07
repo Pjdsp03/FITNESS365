@@ -3,14 +3,13 @@
     "name": "FITNESS365",
     "slug": "fitness365",
     "owner": "paulo_p_j",
-
     "extra": {
       "eas": {
-        "projectId": "f4b01b8a-70ff-464f-a8cc-947295a2aac2"
+        "projectId": "COLE_AQUI_O_UUID_DA_EXPO"
       }
-    },
-
-    "icon": "./assets/icon.png",
+    }
+  }
+}
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
