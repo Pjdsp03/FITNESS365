@@ -7,26 +7,20 @@
       "eas": {
         "projectId": "f4b01b8a-70ff-464f-a8cc-947295a2aac2"
       }
-    }
-  }
-}
+    },
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
-
     "assetBundlePatterns": ["*/"],
-
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.fitness365.app"
     },
-
     "android": {
       "package": "com.fitness365.app"
     },
-
     "web": {
       "favicon": "./assets/favicon.png"
     }
